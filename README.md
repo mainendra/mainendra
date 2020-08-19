@@ -8,6 +8,10 @@ Architecture, design and development of navigator application to consume video, 
 Architecture level discussions and decisions with customer subject matter expert and architecture team.
 Participate in planning meetings to discuss and plan the future roadmap of the product. Apply agile software development methodologies using JIRA – a tool used by agile team.
 
+# Gists
+
+https://gist.github.com/mainendra
+
 <!--
 **mainendra/mainendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
