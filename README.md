@@ -4,7 +4,7 @@ Experience in software development using JavaScript in Video domain. Design and 
 
 # Current role
 
-Architecture, design and development of navigator application to consume video, utilizing technologies such as JavaScript, HTML5, CSS3, SCSS, Nodejs, AngularJS, BackboneJS, ReactJS, WPE Lightning and DRM (digital rights management) video playback using Flash / Dash. Ensure application Accessibility using JAWS and NVDA (Screen reader applications).
+Architecture, design and development of navigator application to consume video, utilizing technologies such as JavaScript, TypeScript, HTML5, CSS3, SCSS, Nodejs, AngularJS, BackboneJS, ReactJS, WPE Lightning and DRM (digital rights management) video playback using Flash / Dash. Ensure application Accessibility using JAWS and NVDA (Screen reader applications).
 Architecture level discussions and decisions with customer subject matter expert and architecture team.
 Participate in planning meetings to discuss and plan the future roadmap of the product. Apply agile software development methodologies using JIRA – a tool used by agile team.
 
