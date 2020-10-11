@@ -1,6 +1,6 @@
 # About me
 
-Experience in software development using JavaScript in Video domain. Design and develop various navigator applications (to consume video) on set-top-box, mobile, samsungTV, Chromecast and desktop platforms. 4+ years of experience in A11y on navigator web application for desktops. 2+ years of experience in UI test automation. While working in same domain for long duration, I’ve acquired distinct debugging skill to debug various applications.
+Experience in software development using JavaScript in Video domain. Design and develop various navigator applications (to consume video) on set-top-box, mobile, samsungTV, Chromecast and desktop platforms. Experience in A11y on navigator web application for desktops. Experience in UI test automation. While working in same domain for long duration, I’ve acquired distinct debugging skill to debug various applications.
 
 # Current role
 
