@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mainendra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mainendra" height="30" width="40" /></a>
-<a href="https://twitter.com/mainendrap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mainendrap" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mainendra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mainendra" height="30" width="40" /></a>
+<a href="https://dev.to/mainendra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="mainendra" height="60" width="80" /></a>
+<a href="https://twitter.com/mainendrap" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="mainendrap" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mainendra" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="mainendra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
