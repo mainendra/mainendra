@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JavaScript project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **Go**
 
 - 📝 Gist [https://gist.github.com/mainendra](https://gist.github.com/mainendra)
 
