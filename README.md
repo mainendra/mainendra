@@ -55,6 +55,7 @@
 	<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 	<a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
 	<a href="https://webpack.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /> </a>
+	<a href="https://webpack.js.org" target="_blank"> <img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" alt="vitejs" width="40" height="40" /> </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mainendra&show_icons=true&locale=en&layout=compact" alt="mainendra" /></p>
