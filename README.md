@@ -51,6 +51,7 @@
 	<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" /> </a>
 	<a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
 	<a href="https://svelte.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" alt="svelte" width="40" height="40" /> </a>
+	<a href="https://www.solidjs.com/" target="_blank"> <img src="https://www.solidjs.com/img/logo/without-wordmark/logo.svg" alt="solidjs" width="40" height="40" /> </a>
 	<a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
 	<a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a>
 	<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
