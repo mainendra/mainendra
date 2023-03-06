@@ -53,4 +53,4 @@
 	<a href="https://vitejs.dev" target="_blank"> <img src="https://github.com/vitejs/vite/blob/main/docs/public/logo.svg" alt="vitejs" width="40" height="40" /> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats-beryl.vercel.app/api/top-langs?username=mainendra&show_icons=true&locale=en&layout=compact" alt="mainendra" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainendra&layout=compact" alt="mainendra" /></p>
