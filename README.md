@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JavaScript project**
 
-- 🌱 I’m currently learning **SolidJS**
+- 🌱 I’m currently learning **SolidJS** and **Svelte**
 
 - 📝 Gist [https://gist.github.com/mainendra](https://gist.github.com/mainendra)
 
