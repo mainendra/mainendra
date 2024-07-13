@@ -16,7 +16,7 @@
 - [terminal UI for git 🤩](https://dev.to/mainendra/terminal-ui-for-git-283p)
 - [How to use npm package without build tool?](https://dev.to/mainendra/how-to-use-npm-package-without-build-tool-5dil)
 - [neovim as IDE](https://dev.to/mainendra/neovim-as-ide-1cnp)
-- [Volta.sh](https://dev.to/mainendra/volta-sh-4037)
+- [asdf](https://dev.to/mainendra/asdf-what--2p20)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
