@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mainendra</h1>
-<h3 align="center">JavaScript developer and coding enthusiast.</h3>
+<h3 align="center">JavaScript / TypeScript developer and coding enthusiast.</h3>
 
 - 🔭 I’m currently working on **JavaScript / TypeScript project**
 
