@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mainendra</h1>
 <h3 align="center">JavaScript developer and coding enthusiast.</h3>
 
-- 🔭 I’m currently working on **JavaScript project**
+- 🔭 I’m currently working on **JavaScript/TypeScript project**
 
 - 🌱 I’m currently learning **SolidJS**, **Svelte** and **Rust**
 
