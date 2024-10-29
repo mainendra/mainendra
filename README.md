@@ -41,6 +41,7 @@
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
 	<a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" /> </a>
 	<a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
+	<a href="https://deno.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original-wordmark.svg" alt="deno" width="40" height="40" /> </a>
 	<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
 	<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" /> </a>
 	<a href="https://redux.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
