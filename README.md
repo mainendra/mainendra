@@ -34,4 +34,4 @@
   };
 ```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainendra&layout=compact" alt="mainendra" /></p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mainendra&layout=compact&theme=gruvbox)
